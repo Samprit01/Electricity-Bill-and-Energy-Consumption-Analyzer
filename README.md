@@ -1,3 +1,4 @@
+
 # Electricity Bill & Energy Consumption Analyzer
 
 ## Project Overview
@@ -38,3 +39,6 @@ The source data is maintained in a clean tabular structure, structured at the tr
 * Keep the source data formatted as an Excel Table so that formulas, PivotTables, and dashboard objects can be easily refreshed when new records are added.
 * Utilize the Payment Status dashboard to actively track and follow up on outstanding pending bills.
 * Monitor high-consumption appliances, particularly AC usage, and use monthly trend charts to identify unusual spikes in energy usage or costs.
+
+
+<img width="1275" height="806" alt="Dashboard preview" src="https://github.com/user-attachments/assets/2521cd80-57ca-4736-95c1-c081bc137c23" />
